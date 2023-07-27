@@ -1,0 +1,90 @@
+h1
+{
+    color:black;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25pt;
+}
+
+body
+{
+    background-color:aliceblue;
+}
+
+a
+{
+    text-decoration:none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 16pt;
+    color:grey;
+    padding-right: 50px;
+}
+
+.header
+    {
+        width: 100%;
+        background-color:lightgray;
+        float:left;
+        height: 30px;
+    }
+
+.slider
+    {
+        width: 100%;
+        background-color:no;
+        float:left;
+    }
+
+.box1
+    {
+        width: 25%;
+        background-color:lightgrey;
+        padding-bottom: 0px;
+        float: left;
+    }
+
+.box2
+    {
+        width: 25%;
+        background-color:lightslategray;
+        padding-bottom: 0px;
+        float: left;
+    }
+
+.box3
+    {
+        width: 25%;
+        background-color:lightgrey;
+        padding-bottom: 0px;
+        float: left;
+    }
+
+.box4
+    {
+        width: 25%;
+        background-color:lightslategray;
+        padding-bottom: 0px;
+        float: left;
+    }
+
+.content
+    {
+        color:black;
+    }
+
+.center
+    {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 25%;
+        padding-bottom: 25px;
+    }
+
+.education
+    {
+        display: block;
+        margin-left:auto;
+        margin-right: auto;
+        width: 10%;
+        padding-bottom: 25px;
+    }
